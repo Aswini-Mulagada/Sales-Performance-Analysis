@@ -27,8 +27,3 @@ It converts raw sales data into clear, visual insights to help understand busine
 ## Skills Demonstrated
 
 Data Analysis • Data Cleaning • Dashboard Design • Business Insights • Excel
-If you'd like, I can also help you add:
-
-✅ Screenshots for GitHub
-✅ Resume description
-✅ LinkedIn project summary 🚀
